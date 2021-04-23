@@ -1,0 +1,13 @@
+.button1 {
+    transition-duration: 0.4s;
+    background-color: transparent;
+    color: wheat;
+    border: 2px solid #e7e7e7;
+    border-radius: 12px;
+  }
+  
+  .button1:hover {
+    background-color: wheat; /* Green */
+    color: white;
+    border-radius: 12px;
+  }

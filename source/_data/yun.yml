@@ -1,0 +1,161 @@
+mode: time
+
+favicon: /favicon.ico
+
+avatar:
+  enable: true
+  url: /images/avatar.png
+  rounded: true
+  opacity: 1
+  mickey_mouse: false
+  status:
+    enable: true
+    emoji: 🚀
+    message: 芜湖
+
+reward:
+  enable: false
+
+baidu_push: true
+
+
+comment:
+  enable: true
+  icon: icon-chat-3-line
+  tips:
+    - OwO?
+    - OwO!
+
+valine:
+  enable: false
+  appId: gaw3jV0XggMaJShI76h8x2Tp-MdYXbMMI # your leancloud application appid
+  appKey:  S0myM2ThPg0Qap6Nfcssuor2 # your leancloud application appkey
+  placeholder: 评论,GKD # comment box placeholder
+  avatar: # gravatar style
+  # meta:
+  #   - nick
+  #   - mail
+  #   - link
+  pageSize: 10 # pagination size
+  # lang: zh-CN
+  visitor: true
+  highlight: true
+  recordIP: false
+  # serverURLs:
+  # Emoji See: https://valine.js.org/emoji.html
+  # emojiCDN: //i0.hdslb.com/bfs/emote/
+  # emojiMaps:
+    #tv_doge: 6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png
+  #   more...
+  enableQQ: true
+  requiredFields:
+     - nick
+     - mail
+
+cursor:
+  enable: true
+
+social:
+  - name: RSS
+    # set rss in your root config
+    # https://github.com/hexojs/hexo-generator-feed
+    link: /atom.xml # config.feed.path
+    icon: icon-rss-line
+    color: orange
+  - name: QQ 2544704967
+    # https://isux.tencent.com/wp-content/uploads/2016/05/20160512101222609.pdf
+    link: tencent://message/?uin=2544704967&Site=LinNian&Menu=yes
+    icon: icon-qq-line
+    color: "#12B7F5"
+  - name: GitHub
+    link: https://github.com/Little-LinNian
+    icon: icon-github-line
+    color: "#6e5494"
+  - name: bilibili
+    link: https://space.bilibili.com/222238689
+    icon: icon-bilibili-line
+    color: "#FF8EB3"
+
+banner:
+  enable: true
+  title: 霖念的小站
+  src: /js/ui/banner.js
+  border: true
+  cloud:
+    enable: true
+    color: "white"
+  go_down:
+    enable: true
+    icon: icon-arrow-down-s-line
+
+footer:
+  since: 2020
+
+  # Icon between year and copyright info.
+  icon:
+    # `heart` is recommended with animation in red (#ff0000).
+    name: icon-cloud-line
+    # If you want to animate the icon, set it to true.
+    animated: true
+    # Change the color of icon, using Hex Code.
+    color: "#0078E7"
+
+  powered:
+    # Hexo link (Powered by Hexo).
+    enable: true
+  live_time:
+    enable: true
+    prefix: Hi Here Running
+    suffix: '!'
+    start_time: '2020-12-31T00:00:00'
+
+menu:
+  home:
+    path: /
+    icon: icon-home-4-line
+  list:
+    - type: archives
+      path: /archives/
+      icon: icon-archive-line
+    - type: categories
+      path: /categories/
+      icon: icon-folder-2-line
+    - type: tags
+      path: /tags/
+      icon: icon-price-tag-3-line
+
+  custom:
+    title: 留言板
+    path: /about/#comment
+    icon: icon-clipboard-line
+
+wordcloud:
+  enable: true
+  height: 350
+
+pages:
+  - name: 我的小伙伴们
+    url: /links/
+    icon: icon-genderless-line
+    color: dodgerblue
+
+twikoo:
+  enable: true
+  envId: blog-comment-3gi3d7fbf7cb76cb # 腾讯云环境id
+  # region: # 环境地域，默认为 ap-shanghai，如果您的环境地域不是上海，需传此参数
+  # option: # 用于区分不同文章的自定义 js 路径，如果您的文章路径不是 location.pathname，需传此参数
+
+wordcount:
+  enable: true
+  count: true
+  time: true
+
+leancloud_visitors:
+  enable: true
+  app_id: gaw3jV0XggMaJShI76h8x2Tp-MdYXbMMI
+  app_key: S0myM2ThPg0Qap6Nfcssuor2
+
+head:
+    js:
+        base:
+            custom: /js/tj.js
