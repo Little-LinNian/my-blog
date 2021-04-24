@@ -10,8 +10,8 @@ avatar:
   mickey_mouse: false
   status:
     enable: true
-    emoji: 🚀
-    message: 芜湖
+    emoji: ✔
+    message: Waiting For 中考
 
 reward:
   enable: false
