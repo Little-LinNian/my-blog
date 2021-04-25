@@ -78,7 +78,7 @@ social:
 
 banner:
   enable: true
-  title: 霖念的小站
+  title: 咕咕咕
   src: /js/ui/banner.js
   border: true
   cloud:
