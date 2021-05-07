@@ -14,8 +14,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - run: cd themes/hexo-theme-yun
-    - run: git submodule init
-    - run: git submodule update
+    - run: git submodule foreach git submodule init
+    - run: git submodule foreach git submodule update
     - run: git add .
     - run: git config user.name LinNian-Bot
     - run: git config user.email qaq1940@aliyun.com
