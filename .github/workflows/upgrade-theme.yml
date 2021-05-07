@@ -4,7 +4,7 @@
 name: Hexo Theme Upgrade
 
 on:
-  create:
+  push:
     branches: [ master ]
 
 jobs:
