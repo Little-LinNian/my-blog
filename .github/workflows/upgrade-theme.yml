@@ -14,3 +14,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - run: git submodule update
+    - run: git add .
+    - run: git commit -am ":rocket:Yun Upgrade"
+    - run: git push
