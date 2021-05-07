@@ -15,5 +15,7 @@ jobs:
     - uses: actions/checkout@v2
     - run: git submodule update
     - run: git add .
+    - run: git config.user LinNian-Bot
+    - run: git config.email qaq1940@aliyun.com
     - run: git commit -am ":rocket:Yun Upgrade"
     - run: git push
