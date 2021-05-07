@@ -19,5 +19,6 @@ jobs:
     - run: git add .
     - run: git config user.name LinNian-Bot
     - run: git config user.email qaq1940@aliyun.com
+    - run: git push
     - run: git commit -am ":rocket:Yun Upgrade"
     - run: git push
