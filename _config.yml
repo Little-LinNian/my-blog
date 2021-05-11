@@ -33,6 +33,7 @@ skip_render: 'vue/**/*'
 
 # Writing
 new_post_name: :title.md # File name of new posts
+
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link:
@@ -103,3 +104,8 @@ theme: hexo-theme-yun
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+aplayer:
+  cdn: https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.js
+  style_cdn: https://cdn.jsdelivr.net/npm/aplayer@latest/dist/APlayer.min.css
+  meting: true
+  meting_cdn: https://cdn.jsdelivr.net/npm/meting@1/dist/Meting.min.js
