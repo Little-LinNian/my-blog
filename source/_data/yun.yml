@@ -159,3 +159,13 @@ head:
     js:
         base:
             custom: /js/tj.js
+pjax:
+  enable: true
+ 
+ aplayer:
+  global: true
+  audio:
+      - name: Rhodes Island
+        artist: ArkNights
+        url: http://static.prts.wiki/music/music/beta2_180603/m_sys_title_combine.mp3
+        cover: http://prts.wiki/ak.png?8efd0
