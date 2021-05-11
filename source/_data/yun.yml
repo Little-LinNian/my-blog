@@ -162,7 +162,7 @@ head:
 pjax:
   enable: true
  
- aplayer:
+aplayer:
   global: true
   audio:
       - name: Rhodes Island
