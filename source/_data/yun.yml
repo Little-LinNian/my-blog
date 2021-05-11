@@ -165,7 +165,7 @@ pjax:
 aplayer:
   global: true
   widget:
-    enable: false
+    enable: true
     audio:
       - name: Rhodes Island
         artist: ArkNights
