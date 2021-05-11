@@ -164,6 +164,7 @@ pjax:
  
 aplayer:
   global: true
+  meting: false
   widget:
     enable: true
     audio:
