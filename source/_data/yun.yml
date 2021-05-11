@@ -164,7 +164,9 @@ pjax:
  
 aplayer:
   global: true
-  audio:
+  widget:
+    enable: false
+    audio:
       - name: Rhodes Island
         artist: ArkNights
         url: http://static.prts.wiki/music/music/beta2_180603/m_sys_title_combine.mp3
