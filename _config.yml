@@ -107,7 +107,7 @@ theme: hexo-theme-yun
 deploy:
   type: cos
   appId: 1302360504
-  secretId: ${{ secrets.TENCENT_ID }}
-  secretKey: ${{ secrets.TENCENT_KEY }}
+  secretId: ${TENCENT_ID}
+  secretKey: ${TENCENT_KEY}
   bucket: hexo-1302360504
   region: ap-hongkong
