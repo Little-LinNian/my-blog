@@ -106,6 +106,7 @@ theme: hexo-theme-yun
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: cos
+  appId: 1302360504
   secretId: ${{ secrets.TENCENT_ID }}
   secretKey: ${{ secrets.TENCENT_KEY }}
   bucket: hexo-1302360504
