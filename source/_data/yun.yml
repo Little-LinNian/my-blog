@@ -161,4 +161,7 @@ head:
             custom: /js/tj.js
 pjax:
   enable: true
- 
+
+post_edit:
+  enable: true
+  url: https://github.com/Little-LinNian/my-blog/tree/master/source
