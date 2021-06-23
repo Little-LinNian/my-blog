@@ -10,12 +10,8 @@ avatar:
   mickey_mouse: false
   status:
     enable: true
-    emoji: ✔
-    message: Waiting For 中考
-
-reward:
-  enable: false
-
+    emoji: 🍊
+    message: None
 baidu_push: true
 
 
