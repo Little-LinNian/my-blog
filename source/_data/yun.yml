@@ -165,3 +165,7 @@ pjax:
 post_edit:
   enable: true
   url: https://github.com/Little-LinNian/my-blog/tree/master/source
+reward:
+  enable: true
+  icon: icon-hand-coin-line
+  comment: 谢谢你好心人，不过，我还是希望你能把钱捐给那些真正有需要的人!而不是能幸福生活的我
