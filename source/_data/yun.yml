@@ -75,10 +75,7 @@ social:
 
 banner:
   enable: true
-  title: 
-    - Just
-    - do
-    - it
+  title: 咕咕咕
   src: /js/ui/banner.js
   border: true
   cloud:
@@ -179,4 +176,4 @@ sidebar:
     amount: 20
 
 post_card:
-  opacity: 0
+  opacity: 0.5
