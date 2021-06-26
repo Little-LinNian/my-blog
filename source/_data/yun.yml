@@ -167,6 +167,12 @@ reward:
 bg_image:
   enable: true
   url: /images/Avg_bg_bg_indoor_1.png
-  dark: /images/Avg_bg_bg_wild_a.png
+  dark: /images/Avg_bg_bg_indoor_1.png
   # blur: 30px # 设置背景模糊程度
-  opacity: 0.8
+
+sidebar:
+  bg_image: 
+  bg_position: bottom 3rem center
+  tagcloud:
+    enable: true
+    amount: 20
