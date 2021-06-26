@@ -158,8 +158,7 @@ head:
         base:
             custom: /js/tj.js
     css:
-        defer:
-            custom: /css/my-yun.css
+        custom: /css/my-yun.css
 pjax:
   enable: true
 
