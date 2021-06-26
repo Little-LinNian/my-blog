@@ -75,11 +75,14 @@ social:
 
 banner:
   enable: true
-  title: 咕咕咕
+  title: 
+    - Just
+    - do
+    - it
   src: /js/ui/banner.js
   border: true
   cloud:
-    enable: true
+    enable: false
     color: "white"
   go_down:
     enable: true
@@ -174,3 +177,6 @@ sidebar:
   tagcloud:
     enable: true
     amount: 20
+
+post_card:
+  opacity: 1.0
