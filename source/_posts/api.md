@@ -10,7 +10,7 @@ tags:
 # [FastAPI](https://fastapi.tiangolo.com/zh/)  
 <div class="warning">
 
-> 在使用前请熟读文档owo
+> 在使用前请简单的看一眼文档
 
 </div>
 
