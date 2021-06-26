@@ -7,7 +7,7 @@ tags:
     - RestAPI
 ---
 
-# [FastAPI] (https://fastapi.tiangolo.com/zh/)  
+# [FastAPI](https://fastapi.tiangolo.com/zh/)  
 <div class="warning">
 
 > 在使用前请熟读文档owo
@@ -18,7 +18,7 @@ tags:
 ## FastAPI 基于Pydantic,使用类型提示，减少大量用户代码  
   
 # Yinglish  
-## 是淫语翻译机！ 能把中文翻译成淫语的翻译机！  [莉沫酱](https://hub.fastgit.org/RimoChan?tab=repositories)太强了  
+## 是淫语翻译机！ 能把中文翻译成淫语的翻译机！  [莉沫酱](https://hub.fastgit.org/RimoChan?tab=repositories) 太强了  
 
 # 环境  
 ```bash
