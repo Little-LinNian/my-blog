@@ -171,7 +171,7 @@ bg_image:
   # blur: 30px # 设置背景模糊程度
 
 sidebar:
-  bg_image: 
+  bg_image: /images/sidebar.png
   bg_position: bottom 3rem center
   tagcloud:
     enable: true
