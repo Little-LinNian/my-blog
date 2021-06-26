@@ -15,7 +15,7 @@ avatar:
 baidu_push: true
 
 colors:
-  primary: "#00B1FF"
+  primary: "#6D888B"
 comment:
   enable: true
   icon: icon-chat-3-line
