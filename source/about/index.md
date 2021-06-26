@@ -10,10 +10,14 @@ date: 2021-01-12 22:49:28
   [Phigros](https://www.taptap.com/app/165287)
   [Ori](https://www.orithegame.com/)
   [Osu](https://osu.ppy.sh/home)
+  [明日方舟](https://ak.hypergryph.com/index)
+  [Muse Dash](http://www.peroperogames.com/)
   ......
 # 语言:
 Python3  
 C#  
+KotLin  
+Js
 都在学习中
 
 # 未完待续......

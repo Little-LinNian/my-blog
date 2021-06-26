@@ -3,7 +3,7 @@ layout: links
 title: 我的小伙伴们
 date: 2021-01-12 21:54:58
 keywords: 链接
-description: 杨念的小伙伴们
+description: 霖念的小伙伴们
 comments: true
 placeholder: 还没想好说些什么 # 默认对友链的描述
 links:
