@@ -166,12 +166,11 @@ reward:
   enable: false
 bg_image:
   enable: true
-  url: /images/Avg_bg_bg_indoor_1.png
+  url: /images/Avg_bg_bg_wild_a.png
   dark: /images/Avg_bg_bg_indoor_1.png
   # blur: 30px # 设置背景模糊程度
 
 sidebar:
-  bg_image: https://cdn.jsdelivr.net/gh/YunYouJun/cdn@master/img/bg/dark-alpha-stars-timing-1.webp
   tagcloud:
     enable: true
     amount: 20
