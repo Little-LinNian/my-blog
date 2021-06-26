@@ -172,7 +172,7 @@ bg_image:
   # blur: 30px # 设置背景模糊程度
 
 sidebar:
-  opacity: 0.6
+  bg_color: rgba(27,31,46,0.1)
   tagcloud:
     enable: true
     amount: 20
