@@ -174,10 +174,12 @@ bg_image:
   # blur: 30px # 设置背景模糊程度
 
 sidebar:
-  bg_color: rgba(27,31,46,0.1)
   tagcloud:
     enable: true
     amount: 20
 
 post_card:
   opacity: 0.5
+
+girls:
+  enable: true
