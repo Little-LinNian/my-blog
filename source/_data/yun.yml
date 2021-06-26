@@ -16,6 +16,7 @@ baidu_push: true
 
 colors:
   primary: "#6D888B"
+  bg: "#2E3229"
 comment:
   enable: true
   icon: icon-chat-3-line
@@ -171,6 +172,7 @@ bg_image:
   # blur: 30px # 设置背景模糊程度
 
 sidebar:
+  opacity: 0.6
   tagcloud:
     enable: true
     amount: 20
