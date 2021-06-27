@@ -164,7 +164,7 @@ pjax:
 
 post_edit:
   enable: true
-  url: https://github.com/Little-LinNian/my-blog/tree/master/source
+  url: https://github.com/Little-LinNian/my-blog/tree/master/source/
 reward:
   enable: false
 bg_image:
