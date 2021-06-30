@@ -3,5 +3,5 @@ if(sessionStorage.getItem("isReload")){
  }else{
   console.log("首次被加载");
   sessionStorage.setItem("isReload", true)
-  location.reload();
+  window.location.reload();
  }
