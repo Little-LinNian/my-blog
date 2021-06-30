@@ -7,7 +7,7 @@ try {
 } catch(e) {
     console.warn(e.message)
     var reload_count = 1;
-
+    localStorage.setItem("reload_count",reload_count)
 }
 window.onbeforeunload = function () {
     localStorage.setItem("reload_count",1)
