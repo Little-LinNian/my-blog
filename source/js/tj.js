@@ -4,3 +4,4 @@
 	y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
 })(window, document, "clarity", "script", "607mrpyclm");
 
+twikoo.init(twikooConfig)
