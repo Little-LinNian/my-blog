@@ -1,14 +1,7 @@
-try {
-    var reload_count = localStorage.getItem("reload_count");
-    if ( reload_count == 1 ){
-        location.reload();
-        reload_count = reload_count + 1
-    }
-} catch(e) {
-    console.warn(e.message)
-    var reload_count = 1;
-    localStorage.setItem("reload_count",reload_count)
-}
-window.onbeforeunload = function () {
-    localStorage.setItem("reload_count",null)
-}
+if(sessionStorage.getItem("isReload")){
+    console.log("页面被刷新");
+ }else{
+  console.log("首次被加载");
+  sessionStorage.setItem("isReload", true)
+  location.reload();
+ }
