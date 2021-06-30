@@ -158,7 +158,7 @@ head:
         base:
             custom: /js/tj.js
         defer:
-            custom_text: location.reload();
+            custom: /js/wdnmd.js
     css:
         custom: /css/my-yun.css
 pjax:
