@@ -1,1 +1,3 @@
-twikoo.init(twikooConfig)
+window.onmousemove = function () {
+    twikoo.init(twikooConfig)
+}
