@@ -157,8 +157,6 @@ head:
     js:
         base:
             custom: /js/tj.js
-        defer:
-            custom: /js/wdnmd.js
     css:
         custom: /css/my-yun.css
 pjax:
