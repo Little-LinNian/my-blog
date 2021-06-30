@@ -156,9 +156,7 @@ leancloud_visitors:
 head:
     js:
         base:
-            custom: 
-              - /js/tj.js
-              - /js/wdnmd.js
+            custom: /js/cst.js
     css:
         custom: /css/my-yun.css
 pjax:
