@@ -13,5 +13,11 @@ links:
       blog: 魂酱的小屋
       desc: 是魂酱的blog...欢迎回家..
       color: "#00BFFF"
+    - url: https://b.4l2.cn/
+      avatar: https://b.4l2.cn/favicon.ico
+      name: 道锋潜鳞
+      blog: 道锋潜鳞编年史
+      desc: 道锋潜鳞编年史是一个专注于知识分享的网站
+      color: "#F7DD78"
 tip: 友链加载中～如失败请刷新重试～
 ---
