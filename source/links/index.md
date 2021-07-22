@@ -24,6 +24,6 @@ links:
       name: 福瑞之家
       blog: 福瑞之家
       desc: "FurryHome 福瑞之家导航"
-      color: "#1D242E"    
+      color: "#ACB7BF"    
 tip: 友链加载中～如失败请刷新重试～
 ---
