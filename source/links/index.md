@@ -25,5 +25,11 @@ links:
       blog: 福瑞之家
       desc: "FurryHome 福瑞之家导航"
       color: "#ACB7BF"    
+    - url: https://blog.furrysp.top
+      avatar: https://gravatar.loli.net/avatar/26fb4e9d679e499d8545df9f2aea519c?d=monsterid&v=1.4.14
+      name: "Dragon犬"
+      blog: "Dragon犬’s blog"
+      desc: "あなたは主人公になりたいですか?"
+      color: "#F4D993"  
 tip: 友链加载中～如失败请刷新重试～
 ---
